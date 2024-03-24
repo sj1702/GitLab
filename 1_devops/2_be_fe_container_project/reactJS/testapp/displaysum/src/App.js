@@ -1,6 +1,6 @@
 import AddNumber from './components/AddNumber';
 import "./App.css"
-import 'react-bootstrap/dist/react-bootstrap.min';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
 
